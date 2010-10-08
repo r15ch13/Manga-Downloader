@@ -1,0 +1,9 @@
+
+/MangaDownloader/bin/Release/publish
+/MangaDownloader/bin/Release/old
+/MangaDownloader/obj
+*.suo
+/MangaDownloader/My Project/ve-350.tmp
+/MangaDownloader/My Project/ve-399.tmp
+/MangaDownloader/bin/Debug/MangaDownloader.vshost.exe
+/MangaDownloader/bin/Debug/MangaDownloader.vshost.exe.manifest
